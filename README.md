@@ -56,7 +56,7 @@ Voici un aperçu des différentes interfaces réalisées pour les opérations CR
 
 ### 1. Liste des étudiants (avec pagination)
 
-<img width="857" height="662" alt="image" src="https://github.com/user-attachments/assets/ee9f4cac-c3f9-46cd-9cd8-d701cbee8903" />
+<img width="863" height="749" alt="image" src="https://github.com/user-attachments/assets/c03f1c63-7a5c-4e0a-9697-1a5c1ec9865a" />
 
 
 ### 2. Formulaire d'ajout d'un étudiant (Création)
