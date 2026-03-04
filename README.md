@@ -76,3 +76,16 @@ Voici un aperçu des différentes interfaces réalisées pour les opérations CR
 <img width="879" height="517" alt="image" src="https://github.com/user-attachments/assets/b25bba41-1d2f-4998-8dcf-879cfd840570" />
 
 
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+  
+* **Année universitaire :** 2025/2026
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Cours :*** Ingénierie Logicielle Web avec PHP 7 : Architecture Multicouche et Accès aux Données Sécurisé
